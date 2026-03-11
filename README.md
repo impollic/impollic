@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-👋 Oi! Sou estudante de Técnico em Informática pelo IFPB 🎓 (quase finalizando!)<br>🎮📚 Curto jogos, livros e tudo que envolve programação<br>💻 Tenho experiência com React e Next.js, usando PostgreSQL pela Vercel<br>⚙️ Gosto bastante de backend, mas tenho um pouco mais de prática em frontend<br>🎨 Atualmente estou aprendendo Web Design<br>🤖 Sou interessado em Inteligência Artificial e quero me aprofundar cada vez mais nessa área<br>🚀 Sempre buscando aprender e evoluir como desenvolvedor!
+👋 Oi! Sou estudante de Técnico em Informática pelo IFPB 🎓<br>🎮📚 Curto jogos, livros e tudo que envolve programação<br>💻 Tenho experiência com React e Next.js, usando PostgreSQL pela Vercel<br>⚙️ Gosto bastante de backend, mas tenho um pouco mais de prática em frontend<br>🎨 Atualmente estou aprendendo Web Design<br>🤖 Sou interessado em Inteligência Artificial e quero me aprofundar cada vez mais nessa área<br>🚀 Sempre buscando aprender e evoluir como desenvolvedor!
 
 
 ## 🌐 Redes Sociais:
