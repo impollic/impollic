@@ -1,24 +1,24 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Apollo%20Borges&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Apollo%20Borges&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false&fontFamily=Work%20Sans"/>
 
 
-## 💫 About Me
-👋 Hi! Software Developer with an Informatics background from IFPB 🎓<br>
-🎮📚 I enjoy games, books, and everything related to programming<br>
-💻 I have experience with React and Next.js, using PostgreSQL via Vercel<br>
-⚙️ I really enjoy backend, though I have a bit more hands-on practice in frontend<br>
-🗄️ Experience with Firebase Auth and API integrations<br>
-📐 Skilled in system design and UML diagrams<br>
-🤖 Interested in Artificial Intelligence and eager to go deeper into that area<br>
-🚀 Always learning and growing as a developer!
+## <img src="https://img.icons8.com/fluency/28/star.png" width="22"/> About Me
+<img src="https://img.icons8.com/fluency/20/waving-hand.png" width="18"/> Hi! Software Developer with an Informatics background from IFPB<br>
+<img src="https://img.icons8.com/fluency/20/controller.png" width="18"/> I enjoy games, books, and everything related to programming<br>
+<img src="https://img.icons8.com/fluency/20/laptop.png" width="18"/> I have experience with React and Next.js, using PostgreSQL via Vercel<br>
+<img src="https://img.icons8.com/fluency/20/settings.png" width="18"/> I really enjoy backend, though I have a bit more hands-on practice in frontend<br>
+<img src="https://img.icons8.com/fluency/20/database.png" width="18"/> Experience with Firebase Auth and API integrations<br>
+<img src="https://img.icons8.com/fluency/20/design.png" width="18"/> Skilled in system design and UML diagrams<br>
+<img src="https://img.icons8.com/fluency/20/artificial-intelligence.png" width="18"/> Interested in Artificial Intelligence and eager to go deeper into that area<br>
+<img src="https://img.icons8.com/fluency/20/rocket.png" width="18"/> Always learning and growing as a developer!
 
-## 🌐 Connect with Me
+## <img src="https://img.icons8.com/fluency/28/link.png" width="22"/> Connect with Me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/b4RzDx4M)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/apollo.bm)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@pollic_)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pollic)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pollosgamer64@gmail.com)
 
-## 💻 Tech Stack
+## <img src="https://img.icons8.com/fluency/28/source-code.png" width="22"/> Tech Stack
 
 **Programming Languages**<br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -47,7 +47,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<!-- ## 📊 GitHub Stats
+<!-- ## <img src="https://img.icons8.com/fluency/28/bar-chart.png" width="22"/> GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=impollic&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false" alt="Apollo's GitHub Stats" />
