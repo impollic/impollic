@@ -2,7 +2,7 @@
 
 
 ## <img src="https://img.icons8.com/fluency/28/star.png" width="22"/> About Me
-<img src="https://img.icons8.com/fluency/20/waving-hand.png" width="18"/> Hi! Software Developer with an Informatics background from IFPB<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"/> Hi! Software Developer with an Informatics background from IFPB<br>
 <img src="https://img.icons8.com/fluency/20/controller.png" width="18"/> I enjoy games, books, and everything related to programming<br>
 <img src="https://img.icons8.com/fluency/20/laptop.png" width="18"/> I have experience with React and Next.js, using PostgreSQL via Vercel<br>
 <img src="https://img.icons8.com/fluency/20/settings.png" width="18"/> I really enjoy backend, though I have a bit more hands-on practice in frontend<br>
